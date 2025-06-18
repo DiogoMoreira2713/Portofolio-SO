@@ -1,0 +1,7 @@
+Aula dia 7 de Março
+
+Nesta aula abordados outros conteúdos como:
+Elementos de design HCI (Estrutura da Informação; Navegação; Composição; Consistência; Equilíbrio).
+
+Desenho de Sistemas Interativos (Conceitos, Planeamento, Estilos de diálogo, Mensagens de erro, Critérios de sucesso,  Factores Humanos, Perfil dos Utilizadores; Modelos Mentais e Conceptuais).
+

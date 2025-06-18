@@ -1,0 +1,9 @@
+Aula dia 28 de Março
+
+Introdução a novos conteúdos :
+
+Sistema de ficheiros Unix. Permissões e segurança. Gestão de utilizadores. Ficheiros de configuração.
+
+Instalação e configuração de sistemas Unix/Linux. Utilização Unix/Linux em linha de comandos.
+
+e realização de alguns exercícios práticos sobre os mesmos temas.

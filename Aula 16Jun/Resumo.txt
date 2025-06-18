@@ -1,0 +1,11 @@
+Aula dia 16 de Junho
+
+Ultima aula onde foram abordados conteúdos da disciplina e neste caso a ultima aula onde foi dada matéria!
+
+Revisões dos conteúdos lecionados até ao momento.
+
+Programação em Bash Script. Automação de tarefas em Unix através de Bash Script.
+
+Escalonamento. Gestão do processador. Algoritmos de escalonamento.
+
+Programação em C para ambiente Unix: Gestão de processos. Sinais. Ficheiros. Redireccionamento.

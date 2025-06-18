@@ -1,0 +1,10 @@
+Aula dia 14 de Março
+
+Novamente abordamos novos conteúdos sobre:
+Desenho de Sistemas Interativos (Conceitos, Planeamento, Estilos de diálogo, Mensagens de erro, Critérios de sucesso,  Factores Humanos, Perfil dos Utilizadores; Modelos Mentais e Conceptuais).
+
+Guidelines para o Projeto de Aplicações Interativas (Design Centralizado no Utilizador, Grafismo, Regras e Guidelines).
+
+Usabilidade no desenvolvimento de Aplicações (Sistema Humano de Percepção, Sistema Cognitivo, Sistema Motor).
+
+E também apresentação do trabalho prático.

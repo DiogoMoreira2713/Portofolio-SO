@@ -1,0 +1,8 @@
+Aula dia 28 de Fevereiro
+
+Na aula foram abordados em primeiro, uma pequena revisão da aula anterior e após isso , foram nos apresentados novos conteúdos como:
+
+Conceptualizar a interação.
+Compreender a importância dos Factores Humanos: Sistema Humano de Percepção, Sistema Cognitivo e Sistema Motor para conceber sistemas adequados às necessidades dos utilizadores.
+Compreender a Psicologia das “Coisas”.
+Elementos de design HCI (Estrutura da Informação; Navegação; Composição; Consistência; Equilíbrio)

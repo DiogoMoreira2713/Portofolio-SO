@@ -1,0 +1,9 @@
+Aula dia 23 de Maio
+
+Novos conteúdos abordados como:
+Programação em Bash Script. Automação de tarefas em Unix através de Bash Script.
+
+Escalonamento. Gestão do processador. Algoritmos de escalonamento.
+
+E realização de alguns exercícios enquanto o professor apresentava os mesmos conteúdos.
+

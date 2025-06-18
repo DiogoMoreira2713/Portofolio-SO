@@ -1,0 +1,8 @@
+Aula dia 4 de Abril
+
+Continuação dos conteúdos da aula anterior e introdução a novos conteúdos:
+Instalação e configuração de sistemas Unix/Linux. Utilização Unix/Linux em linha de comandos.
+
+Comandos para: manipulação e gestão de ficheiros, manipulação e extração de informação em ficheiros de texto.
+
+Redireccionamento. 
